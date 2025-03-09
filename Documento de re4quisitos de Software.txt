@@ -1,2 +1,2 @@
-#Documento de re4quisitos de Software
+#Documento de requisitos de Software
 Luna Gallego
