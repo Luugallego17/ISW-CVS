@@ -1,2 +1,25 @@
 #Documento de requisitos de Software
 Luna Gallego
+
+## 1. Introducción.
+
+### 1.1. Alcance del Producto. 
+Vamos a trabajar con una aplicacion diseñada para poder transmitir musica de forma aleatoria y mas barata. 
+### 1.2 Valor del Producto.
+Se utiliza para dar oportunidad a artistas pequeños a ser escuchados y transmitir su talento, creando una base de seguidores y ganar un poco de dinero con eso, de igual manera es una opcion mas accesible y con mas variabilidad de musica para usuarios mas aventureros. 
+### 1.3. Público objetivo.
+Artistas emergentes e independientes y usuarios mas exploradores con ganas de descubrir nuevos artistas. 
+### 1.4. Uso previsto.
+La aplicación estará disponible en dispositivos móviles (iOS y Android) y en computadoras de escritorio y portátiles a través de una versión web. Esto permitirá a los usuarios escuchar música, interactuar con artistas y realizar transacciones desde cualquier lugar y en pantallas más grandes, mejorando la experiencia general.
+### 1.5. Descripción general.
+La aplicación es una plataforma de streaming que permite a artistas emergentes compartir su música y monetizar su talento. Ofrece a los usuarios una variedad de música para descubrir nuevos artistas y está disponible en dispositivos móviles y computadoras.
+## 2. Requisitos.
+
+### 2.1. Requisitos Funcionales
+
+### 2.2 Requisitos De Diseño
+
+### 2.3. Requisitos No Funcionales.
+-Seguridad: inicio de sesión de cada usuario.
+-Usuarios: 1000000
+-Dispositivos: Web y dispositivo móvil
