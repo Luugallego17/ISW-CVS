@@ -1,8 +1,20 @@
-Historia de Usuario 1
-Como usuario de DAVE, quiero descargar música de manera sencilla para poder acceder a mis canciones en cualquier momento y situación.
+# 1. Historias de usuario 
+# 1.1 Historia de Usuario 1
+-Como consumidor de DAVE, quiero descargar música de manera sencilla para poder acceder a mis canciones en cualquier momento y situación.
 
-Historia de Usuario 2
-Como usuario de DAVE, quiero descargar música sin pérdida de calidad de sonido para disfrutar de mis canciones en cualquier momento y situación.
+# 1.2 Historia de Usuario 2
+-Como consumidor de DAVE, quiero descargar música sin pérdida de calidad de sonido para disfrutar de mis canciones en cualquier momento y situación.
 
-Historia de Usuario 3
-Como artista en DAVE, quiero subir videos cortos de interacción con los usuarios para anunciar nuevos sencillos y mantenerme conectado con mi audiencia.
+# 1.3 Historia de Usuario 3
+-Como artista en DAVE, quiero subir videos cortos de interacción con los usuarios para anunciar nuevos sencillos y mantenerme conectado con mi audiencia.
+
+## 2. Criterios de aceptación
+
+## 2.1 Criterio de aceptación 1  
+El consumidor accede a la aplicación, selecciona una canción y ubica el botón de descarga. Al presionarlo, aparece un mensaje de confirmación de descarga y, automáticamente, la canción comienza a descargarse.  
+
+## 2.2 Criterio de aceptación 2  
+El consumidor accede a la aplicación, selecciona una canción y ubica el botón de descarga. Al presionarlo, aparece un mensaje de confirmación de descarga y, automáticamente, la canción comienza a descargarse sin que su calidad de sonido se vea afectada.  
+
+## 2.3 Criterio de aceptación 3  
+El artista accede a la aplicación, navega hasta su perfil y selecciona el botón "+", lo que le permite subir un video pregrabado de hasta 10 segundos de duración.
