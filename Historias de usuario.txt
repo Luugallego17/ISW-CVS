@@ -1,0 +1,8 @@
+Historia de Usuario 1
+Como usuario de DAVE, quiero descargar música de manera sencilla para poder acceder a mis canciones en cualquier momento y situación.
+
+Historia de Usuario 2
+Como usuario de DAVE, quiero descargar música sin pérdida de calidad de sonido para disfrutar de mis canciones en cualquier momento y situación.
+
+Historia de Usuario 3
+Como artista en DAVE, quiero subir videos cortos de interacción con los usuarios para anunciar nuevos sencillos y mantenerme conectado con mi audiencia.
